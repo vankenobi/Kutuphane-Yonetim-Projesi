@@ -47,7 +47,7 @@ Katmanlı mimari projelerimizi belirli bir standart ve düzene göre geliştirme
 ------------------------------------------------------
 
 ### Kurulum
-[Bu linkten](https://drive.google.com/file/d/1qjv8eTM4m7whCT78r_yg_VhatHB6iCDF/view?usp=sharing) "Kütüphane Setup.msi" dosyasını indirerek kurulumu gerçekleştirebilirsiniz. 
+[Bu linkten](https://drive.google.com/file/d/1qjv8eTM4m7whCT78r_yg_VhatHB6iCDF/view?usp=sharing){:target="_blank"} "Kütüphane Setup.msi" dosyasını indirerek kurulumu gerçekleştirebilirsiniz. 
 
 ### KAYNAKÇA
 
