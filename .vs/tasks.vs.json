@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "görev-LibraryApp",
+      "appliesTo": "LibraryApp/LibraryApp.sln",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "görev-Kütüphane Projesi",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "görev-LibraryApp",
+      "appliesTo": "LibraryApp/LibraryApp.DAL/",
+      "type": "launch"
+    }
+  ]
+}

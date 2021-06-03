@@ -1,0 +1,9 @@
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\bin\x86\Debug\LibraryApp.BLL.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\bin\x86\Debug\LibraryApp.BLL.pdb
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\bin\x86\Debug\LibraryApp.DAL.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\bin\x86\Debug\LibraryApp.DAL.pdb
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\obj\x86\Debug\LibraryApp.BLL.csprojAssemblyReference.cache
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\obj\x86\Debug\LibraryApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\obj\x86\Debug\LibraryApp.BLL.csproj.CopyComplete
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\obj\x86\Debug\LibraryApp.BLL.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\obj\x86\Debug\LibraryApp.BLL.pdb

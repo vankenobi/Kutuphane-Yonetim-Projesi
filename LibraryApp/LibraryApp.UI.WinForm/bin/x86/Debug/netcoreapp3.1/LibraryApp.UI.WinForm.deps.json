@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LibraryApp.UI.WinForm/1.0.0": {
+        "dependencies": {
+          "LibraryApp.BLL": "1.0.0"
+        },
+        "runtime": {
+          "LibraryApp.UI.WinForm.dll": {}
+        }
+      },
+      "LibraryApp.BLL/1.0.0": {
+        "dependencies": {
+          "LibraryApp.DAL": "1.0.0"
+        },
+        "runtime": {
+          "LibraryApp.BLL.dll": {}
+        }
+      },
+      "LibraryApp.DAL/1.0.0": {
+        "runtime": {
+          "LibraryApp.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryApp.UI.WinForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryApp.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibraryApp.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

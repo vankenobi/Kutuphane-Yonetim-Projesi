@@ -1,0 +1,12 @@
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.Entity\bin\Debug\LibraryApp.Entity.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.Entity\bin\Debug\LibraryApp.Entity.pdb
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.Entity\obj\Debug\LibraryApp.Entity.csprojAssemblyReference.cache
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.Entity\obj\Debug\LibraryApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.Entity\obj\Debug\LibraryApp.Entity.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.Entity\obj\Debug\LibraryApp.Entity.pdb
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.Entity\bin\Debug\LibraryApp.Entity.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.Entity\bin\Debug\LibraryApp.Entity.pdb
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.Entity\obj\Debug\LibraryApp.Entity.csprojAssemblyReference.cache
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.Entity\obj\Debug\LibraryApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.Entity\obj\Debug\LibraryApp.Entity.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.Entity\obj\Debug\LibraryApp.Entity.pdb

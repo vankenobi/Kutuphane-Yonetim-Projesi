@@ -1,0 +1,26 @@
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\bin\Debug\LibraryApp.BLL.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\bin\Debug\LibraryApp.BLL.pdb
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\bin\Debug\LibraryApp.DAL.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\bin\Debug\LibraryApp.DAL.pdb
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\obj\Debug\LibraryApp.BLL.csprojAssemblyReference.cache
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\obj\Debug\LibraryApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\obj\Debug\LibraryApp.BLL.csproj.CopyComplete
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\obj\Debug\LibraryApp.BLL.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\obj\Debug\LibraryApp.BLL.pdb
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\bin\Debug\System.Data.OleDb.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\bin\Debug\System.Data.OleDb.xml
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\bin\Debug\LibraryApp.Entity.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.BLL\bin\Debug\LibraryApp.Entity.pdb
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.BLL\bin\Debug\LibraryApp.BLL.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.BLL\bin\Debug\LibraryApp.BLL.pdb
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.BLL\bin\Debug\LibraryApp.DAL.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.BLL\bin\Debug\LibraryApp.Entity.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.BLL\bin\Debug\System.Data.OleDb.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.BLL\bin\Debug\LibraryApp.DAL.pdb
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.BLL\bin\Debug\LibraryApp.Entity.pdb
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.BLL\bin\Debug\System.Data.OleDb.xml
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.BLL\obj\Debug\LibraryApp.BLL.csprojAssemblyReference.cache
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.BLL\obj\Debug\LibraryApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.BLL\obj\Debug\LibraryApp.BLL.csproj.CopyComplete
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.BLL\obj\Debug\LibraryApp.BLL.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.BLL\obj\Debug\LibraryApp.BLL.pdb

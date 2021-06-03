@@ -1,0 +1,87 @@
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.UI.exe
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.UI.deps.json
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.UI.runtimeconfig.json
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.UI.runtimeconfig.dev.json
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.UI.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.UI.pdb
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.BLL.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.DAL.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.BLL.pdb
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.DAL.pdb
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.csprojAssemblyReference.cache
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.anamenu.resources
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.csproj.GenerateResource.cache
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.AssemblyInfoInputs.cache
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.AssemblyInfo.cs
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.csproj.CopyComplete
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.pdb
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.genruntimeconfig.cache
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.Kitap.resources
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.Ogrenci.resources
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.Teslim_Iade.resources
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.Entity.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.Entity.pdb
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\ZedGraph.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\de\ZedGraph.resources.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\es\ZedGraph.resources.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\fr\ZedGraph.resources.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\hu\ZedGraph.resources.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\it\ZedGraph.resources.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\ja\ZedGraph.resources.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\pt\ZedGraph.resources.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\ru\ZedGraph.resources.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\sk\ZedGraph.resources.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\sv\ZedGraph.resources.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\tr\ZedGraph.resources.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\zh-cn\ZedGraph.resources.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\zh-tw\ZedGraph.resources.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.Zedgraph.resources
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.csproj.CoreCompileInputs.cache
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.Properties.Resources.resources
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.UI.exe
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.UI.deps.json
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.UI.runtimeconfig.json
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.UI.runtimeconfig.dev.json
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.UI.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.UI.pdb
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\ZedGraph.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\de\ZedGraph.resources.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\es\ZedGraph.resources.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\fr\ZedGraph.resources.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\hu\ZedGraph.resources.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\it\ZedGraph.resources.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\ja\ZedGraph.resources.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\pt\ZedGraph.resources.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\ru\ZedGraph.resources.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\sk\ZedGraph.resources.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\sv\ZedGraph.resources.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\tr\ZedGraph.resources.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\zh-cn\ZedGraph.resources.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\zh-tw\ZedGraph.resources.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.BLL.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.DAL.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.Entity.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.BLL.pdb
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.Entity.pdb
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\bin\Debug\netcoreapp3.1\LibraryApp.DAL.pdb
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.csprojAssemblyReference.cache
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\WindowsFormsApp1.anamenu.resources
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.Kitap.resources
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.Ogrenci.resources
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.Properties.Resources.resources
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.Teslim_Iade.resources
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.Zedgraph.resources
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.csproj.GenerateResource.cache
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.AssemblyInfoInputs.cache
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.AssemblyInfo.cs
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.csproj.CoreCompileInputs.cache
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.csproj.CopyComplete
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.pdb
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.genruntimeconfig.cache
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\WindowsFormsApp1\obj\Debug\netcoreapp3.1\LibraryApp.UI.csproj.ResolveComReference.cache

@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LibraryApp.BLL/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "LibraryApp.DAL": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/LibraryApp.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryApp.BLL.dll": {}
+        }
+      },
+      "LibraryApp.DAL/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/LibraryApp.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LibraryApp.DAL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryApp.BLL/1.0.0": {
+      "type": "project",
+      "path": "../LibraryApp.BLL/LibraryApp.BLL.csproj",
+      "msbuildProject": "../LibraryApp.BLL/LibraryApp.BLL.csproj"
+    },
+    "LibraryApp.DAL/1.0.0": {
+      "type": "project",
+      "path": "../LibraryApp.DAL/LibraryApp.DAL.csproj",
+      "msbuildProject": "../LibraryApp.DAL/LibraryApp.DAL.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "LibraryApp.BLL >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\musak\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\musak\\Desktop\\Kütüphane Projesi\\LibraryApp\\LibraryApp.UI.WinForm\\LibraryApp.UI.WinForm.csproj",
+      "projectName": "LibraryApp.UI.WinForm",
+      "projectPath": "C:\\Users\\musak\\Desktop\\Kütüphane Projesi\\LibraryApp\\LibraryApp.UI.WinForm\\LibraryApp.UI.WinForm.csproj",
+      "packagesPath": "C:\\Users\\musak\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\musak\\Desktop\\Kütüphane Projesi\\LibraryApp\\LibraryApp.UI.WinForm\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\musak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\musak\\Desktop\\Kütüphane Projesi\\LibraryApp\\LibraryApp.BLL\\LibraryApp.BLL.csproj": {
+              "projectPath": "C:\\Users\\musak\\Desktop\\Kütüphane Projesi\\LibraryApp\\LibraryApp.BLL\\LibraryApp.BLL.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

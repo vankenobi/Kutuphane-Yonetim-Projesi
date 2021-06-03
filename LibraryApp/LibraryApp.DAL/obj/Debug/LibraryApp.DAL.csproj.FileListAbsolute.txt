@@ -1,0 +1,22 @@
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.DAL\obj\Debug\LibraryApp.DAL.csprojAssemblyReference.cache
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.DAL\obj\Debug\LibraryApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.DAL\bin\Debug\LibraryApp.DAL.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.DAL\bin\Debug\LibraryApp.DAL.pdb
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.DAL\obj\Debug\LibraryApp.DAL.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.DAL\obj\Debug\LibraryApp.DAL.pdb
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.DAL\bin\Debug\System.Data.OleDb.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.DAL\bin\Debug\System.Data.OleDb.xml
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.DAL\obj\Debug\LibraryApp.DAL.csproj.CopyComplete
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.DAL\bin\Debug\LibraryApp.Entity.dll
+C:\Users\musak\Desktop\Kütüphane Projesi\LibraryApp\LibraryApp.DAL\bin\Debug\LibraryApp.Entity.pdb
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.DAL\bin\Debug\LibraryApp.DAL.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.DAL\bin\Debug\LibraryApp.DAL.pdb
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.DAL\bin\Debug\LibraryApp.Entity.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.DAL\bin\Debug\System.Data.OleDb.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.DAL\bin\Debug\LibraryApp.Entity.pdb
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.DAL\bin\Debug\System.Data.OleDb.xml
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.DAL\obj\Debug\LibraryApp.DAL.csprojAssemblyReference.cache
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.DAL\obj\Debug\LibraryApp.DAL.csproj.CoreCompileInputs.cache
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.DAL\obj\Debug\LibraryApp.DAL.csproj.CopyComplete
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.DAL\obj\Debug\LibraryApp.DAL.dll
+C:\Users\musak\Desktop\K-t-phane-Projesi\LibraryApp\LibraryApp.DAL\obj\Debug\LibraryApp.DAL.pdb
